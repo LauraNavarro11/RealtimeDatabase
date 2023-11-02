@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RealTimeApp</string>
+    <string name="dialog_ask_task">Añadir tarea</string>
+    <string name="dialog_ask_task_tittle">Titulo</string>
+    <string name="dialog_ask_task_descripción">Descripción</string>
+    <string name="dialog_ask_task_btn">Añadir una tarea</string>
+
+
+
+
+</resources>
