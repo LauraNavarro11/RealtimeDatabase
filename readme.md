@@ -7,11 +7,11 @@
 
 ## On the main page we have a list of characters with their respective name and house through a recycler view.
 
-<a href="./firebase1.PNG"><img src="./firebase1.PNG" style="height: 50%; width:50%;"/></a><br>
+<a href="./firebase1.PNG"><img src="./firebase1.PNG" style="height: 70%; width:70%;"/></a><br>
 
 ## now let's add a task
-<a href="./añadirtarealaura.PNG"><img src="./añadirtarealaura.PNG" style="height: 50%; width:50%;"/></a><br>
-<a href="./añadida.PNG"><img src="./añadida.PNG" style="height: 50%; width:50%;"/></a><br>
+<a href="./añadirtarealaura.PNG"><img src="./añadirtarealaura.PNG" style="height: 40%; width:40%;"/></a><br>
+<a href="./añadida.PNG"><img src="./añadida.PNG" style="height: 70%; width:70%;"/></a><br>
 
 
 ## we can also check it and delete it
