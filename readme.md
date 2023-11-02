@@ -16,7 +16,7 @@
 <a href="./añadida.PNG"><img src="./añadida.PNG" style="height: 100%; width:100%;"/></a><br>
 
 
-## we can also check it and delete it
+## We can also check it and a golden border will appear or delete it and it will disappear from our list
 
 <a href="./true.PNG"><img src="./true.PNG" style="height: 100%; width:100%;"/></a><br>
 
